@@ -1,0 +1,14 @@
+sample	site	donor	gex_run	gex_bam	gex_bam_md5
+s1d1	1	1	SRR17693278	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693278/site1_donor01_multiome_gex.possorted_genome_bam.bam.1	044b3d75aa7426e5dc362bfbc9fdc4e5
+s1d2	1	2	SRR17693277	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693277/site1_donor02_multiome_gex.possorted_bam.bam.1	c4c560ed42398b3e9f7057e879edcffb
+s1d3	1	3	SRR17693276	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693276/site1_donor03_multiome_gex.possorted_bam.bam.1	f3101259699ea6b605bd1d74e306406e
+s2d1	2	1	SRR17693275	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693275/site2_donor01_multiome_gex.possorted_genome_bam.bam.1	07cb2c8ceb403e1c611841c1326e54c7
+s2d4	2	4	SRR17693274	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693274/site2_donor04_multiome_gex.possorted_genome_bam.bam.1	26260e586c229c0aeb84505f1325c72a
+s2d5	2	5	SRR17693273	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693273/site2_donor05_multiome_gex.possorted_genome_bam.bam	e1f8549bf71840a197cea6c655ee9551
+s3d3	3	3	SRR17693271	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693271/site3_donor03_multiome_gex.possorted_genome_bam.bam.1	6ffb753233c214a375f4f618f18a23d6
+s3d6	3	6	SRR17693270	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693270/site3_donor06_multiome_gex.possorted_genome_bam.bam	71ce2cbe76cb74a556207a5da7027e95
+s3d7	3	7	SRR17693269	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693269/site3_donor07_multiome_gex.possorted_genome_bam.bam	6e1217af07c21a58de69dbf6112a8f9d
+s3d10	3	10	SRR17693272	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693272/site3_donor10_multiome_gex.possorted_genome_bam.bam	0ea839e933bab7e8d92927866232da44
+s4d1	4	1	SRR17693268	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693268/site4_donor01_multiome_gex.possorted_genome_bam.bam.1	75b8322cf644f7b5254c7a32391e940c
+s4d8	4	8	SRR17693267	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693267/site4_donor08_multiome_gex.possorted_genome_bam.bam.1	9bf2da79b92d4994d885e45eca087292
+s4d9	4	9	SRR17693266	https://ftp.sra.ebi.ac.uk/vol1/run/SRR176/SRR17693266/site4_donor09_multiome_gex.possorted_genome_bam.bam.1	a7fed3450edf61dbba4d102087cb282d

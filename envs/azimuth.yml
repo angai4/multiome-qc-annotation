@@ -1,0 +1,22 @@
+# azimuthpy/environment.yml pinned to R 4.3 / rpy2 3.5 (rpy2 3.6 breaks azimuthpy 0.1.1),
+# plus the packages the notebooks use. Seurat 5.3.0 rejects Azimuth 0.5.0's SCT reference + RNA query.
+name: azimuth
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - anndata
+  - pandas
+  - numpy<2
+  - r-base=4.3
+  - r-seurat=5.2.1
+  - r-azimuth
+  - rpy2<3.6
+  - scanpy>=1.10
+  - leidenalg
+  - python-igraph
+  - scikit-image
+  - matplotlib-base
+  - ipykernel
+  - pip

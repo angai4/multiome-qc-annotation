@@ -1,0 +1,4 @@
+# Notebook plots are saved at 300 dpi (up to ~190 MB per notebook). The committed copy has them shrunk to fit
+# GitHub (scripts/nb_shrink_images.py); local notebooks keep full resolution. Set the filter up once per clone
+# (see README).
+*.ipynb filter=nbshrink

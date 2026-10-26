@@ -1,0 +1,25 @@
+name: multiome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - numpy>=2,<3
+  - pandas>=2.3,<3
+  - scipy
+  - scanpy>=1.11
+  - anndata
+  - leidenalg
+  - python-igraph
+  - scikit-image
+  - statsmodels
+  - matplotlib-base
+  - seaborn
+  - h5py
+  - pysam
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+      - snapatac2==2.10.0

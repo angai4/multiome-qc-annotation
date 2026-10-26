@@ -1,0 +1,31 @@
+# Data, references and outputs: downloaded or rebuilt by jobs/
+data/
+*.h5
+*.h5ad
+*.h5mu
+*.rds
+*.tsv.gz
+*.tsv.gz.tbi
+*.bam
+# pysam caches remote BAM indexes in the working directory (jobs/06_rebuild_gex.sbatch)
+*.bai
+
+# SVG of every notebook figure (figures/<notebook>/), for local use; the notebooks show the plots
+figures/
+
+# Logs (the folder must exist for the #SBATCH -o/-e paths)
+logs/*
+!logs/.gitkeep
+slurm-*.out
+
+# Notebooks / Python / R
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Installed by jobs/01_create_env.sbatch
+tools/
+# Local clone of azimuthpy; jobs/05_create_env_azimuth.sbatch installs it from GitHub
+azimuthpy/
